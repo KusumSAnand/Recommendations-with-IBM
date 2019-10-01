@@ -19,11 +19,14 @@ Python 3.5+
 Libraries: NumPy,Pandas, Matplotlib, pickle
 
 ## Summary of files
+**Data files -**
+articles_community.csv
+user-item-interactions.csv
 
-**Implementation file - **
+**Implementation file -**
 Recommendations_with_IBM-v2.py
 
-**Solution validation files - **
+**Solution validation files -**
 top_10.p
 top_20.p
 top_5.p
