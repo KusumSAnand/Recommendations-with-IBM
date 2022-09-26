@@ -1,5 +1,5 @@
 
-# Recommendations for IBM
+# Building a Recommendations Engine
 
 ## Project Overview
 
