@@ -31,9 +31,3 @@ top_10.p
 top_20.p
 top_5.p
 user_item_matrix.p
-
-
-
-## Acknowledgements
-
-The project is part of Udacity's Data Science Nanodegree program. Code template and solution validation files have been provided by Udacity.
